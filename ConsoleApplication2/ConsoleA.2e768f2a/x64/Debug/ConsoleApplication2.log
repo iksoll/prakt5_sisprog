@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\st310-09\Desktop\Nikitenko\ConsoleApplication2\ConsoleApplication2.cpp(22,2): warning C4091: typedef : пропускается слева от "Male", когда ни одна переменная не объявлена
+  ConsoleApplication2.vcxproj -> C:\Users\st310-09\Desktop\Nikitenko\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
